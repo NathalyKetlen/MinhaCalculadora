@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Minha Calculadora</string>
+    <string name="resultado">0</string>
+    <string name="btn_c">C</string>
+    <string name="btn_mm">+/-</string>
+    <string name="btn_porcentagem">%</string>
+    <string name="btn_dividir">/</string>
+    <string name="btn_zero">0</string>
+    <string name="btn_um">1</string>
+    <string name="btn_dois">2</string>
+    <string name="btn_tres">3</string>
+    <string name="btn_quatro">4</string>
+    <string name="btn_cinco">5</string>
+    <string name="btn_seis">6</string>
+    <string name="btn_sete">7</string>
+    <string name="btn_oito">8</string>
+    <string name="btn_nove">9</string>
+    <string name="btn_igual">=</string>
+    <string name="btn_somar">+</string>
+    <string name="btn_subtrair">-</string>
+    <string name="btn_multiplicar">X</string>
+    <string name="btn_ponto">.</string>
+</resources>
